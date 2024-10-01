@@ -7,3 +7,6 @@ Bulunan Modüller
 - Kitap ödünç alma işlemleri
 - Kitap kayıp servisi
 - Kullanıcı ceza modülü
+
+# Proje Süresi
+Projeninin 3 ayda bitirilecek.
